@@ -5,7 +5,7 @@ Soy estudiante de 42 Madrid, enfocado en el desarrollo full-stack.
 He completado el Common Core, lo que me ha dado una base sólida en algoritmia, C, sistemas y trabajo en equipo.
 Además, a través de proyectos personales y académicos he trabajado con tecnologías modernas del ecosistema web.
 
-👉 Pásate por mi portfolio si quieres conocerme mejor (incluye un fondo interactivo que reacciona a tus movimientos 👀): 
+👉 Pásate por mi portfolio si quieres conocerme mejor (incluye un fondo interactivo que reacciona a tus movimientos 👀): <br>
 **[https://uxelf.github.io/](https://uxelf.github.io/)**
 
 <h3 align="left">Conecta conmigo:</h3>
