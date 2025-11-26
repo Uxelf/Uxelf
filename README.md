@@ -5,11 +5,10 @@ Soy estudiante de 42 Madrid, enfocado en el desarrollo full-stack.
 He completado el Common Core, lo que me ha dado una base sólida en algoritmia, C, sistemas y trabajo en equipo.
 Además, a través de proyectos personales y académicos he trabajado con tecnologías modernas del ecosistema web.
 
-👨‍💻 No dudes en echarle un vistazo a mi portfolio web, donde listo todos mis proyectos: **[https://uxelf.github.io/](https://uxelf.github.io/)**
+👉 Pásate por mi portfolio si quieres conocerme mejor (incluye un fondo interactivo que reacciona a tus movimientos 👀): **[https://uxelf.github.io/](https://uxelf.github.io/)**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://github.com/Uxelf" target="blank" style="padding-right: 4px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Uxelf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/david-gonzalez-danielewicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-gonzalez-danielewicz" height="30" width="40" /></a>
 </p>
 
