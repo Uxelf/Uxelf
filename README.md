@@ -26,6 +26,7 @@ In addition, through personal and academic projects, I’ve worked with modern t
 <h4 align="left">Back end</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=next" alt="next" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
 </p>
 <h4 align="left">DB</h4>
 <p align="left">
@@ -37,7 +38,6 @@ In addition, through personal and academic projects, I’ve worked with modern t
 <h4 align="left">Also know</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
 </p>
