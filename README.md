@@ -10,7 +10,7 @@ I focus on building **clean, maintainable backend systems** using **Java and Spr
 - Database modeling
 - Writing code that scales and is easy to maintain
 
-I care about **doing things properly from the start**: clear structure, good practices, and understanding what’s happening under the hood — not just making things work.
+I care about **doing things properly from the start**: clear structure, good practices, and understanding what’s happening under the hood, not just making things work.
 
 ---
 
